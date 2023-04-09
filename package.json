@@ -35,7 +35,7 @@
         "chalk": "^4.1.2",
         "discord-giveaways": "^6.0.1",
         "discord-image-generation": "^1.4.9",
-        "discord.js": "^14.7.1",
+        "discord.js": "^14.9.0",
         "dompurify": "^2.3.5",
         "dotenv": "^10.0.0",
         "erela.js": "^2.3.3",
